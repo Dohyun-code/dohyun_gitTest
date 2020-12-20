@@ -1,10 +1,14 @@
 
 
-#0) -> git pull origin master
+#0) -> git pull origin master (web상의 git과 local 코드가 동일한지 확인)
+
 #1) -> git init
 #2) -> git remote add origin  
 
 #Pull ( git pull origin master )
 
-#Push ( git status / git add . / git commit -m "massage" / 
-         git push origin master)
+#Push 
+        / git status  ( git == local 확인)
+        / git add . 
+        / git commit -m "massage" 
+        / git push origin master
