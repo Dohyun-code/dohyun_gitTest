@@ -1,0 +1,10 @@
+
+
+
+#1) -> git init
+#2) -> git remote add origin  
+
+#Pull ( git pull origin master )
+
+#Push ( git status / git add . / git commit -m "massage" / 
+         git push origin +master)
